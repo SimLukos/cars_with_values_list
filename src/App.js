@@ -5,7 +5,7 @@ import CarValue from './components/CarValue';
 
 export default function App() {
   return (
-    <div>
+    <div className='container is-fluid'>
       <CarForm />
       <CarSearch />
       <CarList />
