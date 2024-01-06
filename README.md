@@ -1,6 +1,6 @@
 # Cars and Values
 
-This little project created with React and Redux.
+This little project is created with React and Redux.
 
 ### `npm start`
 
